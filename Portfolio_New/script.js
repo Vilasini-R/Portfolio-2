@@ -1,4 +1,4 @@
-let roles = ["Full-stack Developer", "Programmer", "Front-end Developer"];
+let roles = ["Programmer", "Front-end Developer"];
 let currentIndex = 0;
 
 function changeRole() {
